@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Karl Fredberg Sjöstrand",
+      "authorEmail": "karl.fredberg@gmail.com",
+      "authorUrl": "https://github.com/KFredberg"
+    }
+  }
+}
